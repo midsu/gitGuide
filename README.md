@@ -12,7 +12,7 @@ normal text
 
 ~~strikethrough text~~
 
--item 1.
--item 2.
- -sub item 2.
+- item 1.
+- item 2.
+ - sub item 2.
 
