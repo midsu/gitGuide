@@ -16,6 +16,6 @@ normal text
 - item 2.
   - sub item 2.
 
-- [] incomplete 
+- [ ] incomplete 
 - [x] complete
 
