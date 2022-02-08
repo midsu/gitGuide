@@ -5,11 +5,14 @@ This repo is for github shortuts and better readMe
 ## heading 2
 
 normal text
+
 **bold text**
+
 *italic text*
+
 ~~strikethrough text~~
 
--item 1
--item 2
- -sub item 2
+-item 1.
+-item 2.
+ -sub item 2.
 
