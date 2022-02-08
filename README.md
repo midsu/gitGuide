@@ -14,5 +14,5 @@ normal text
 
 - item 1.
 - item 2.
- - sub item 2.
+  - sub item 2.
 
