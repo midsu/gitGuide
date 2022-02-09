@@ -1,8 +1,12 @@
 # gitGuide
-This repo is for github shortuts and better readMe
+This repo is for github shortuts and better formatting readMe
+
+________________________ HEADINGS
 
 # heading 1
 ## heading 2
+
+________________________ TEXTS
 
 normal text
 
@@ -12,10 +16,37 @@ normal text
 
 ~~strikethrough text~~
 
+________________________ LISTS
+
 - item 1.
 - item 2.
   - sub item 2.
 
+________________________ TASK
+
 - [ ] incomplete 
 - [x] complete
+
+________________________ LINK
+
+[GitHub_readMe](https://github.com/midsu/gitGuide/edit/main/README.md)
+
+________________________ TABLE
+
+| Column 1 | Column 2 | Column 3 |
+|:---|:---:|
+|row 1a|row 1b|
+
+
+
+
+
+
+
+
+
+
+
+
+
 
