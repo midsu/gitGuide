@@ -5,6 +5,7 @@ ________________________ HEADINGS
 
 # heading 1
 ## heading 2
+### heading 3
 
 ________________________ TEXTS
 
@@ -29,6 +30,7 @@ ________________________ TASK
 
 ________________________ LINK
 
+Directs to this link: https://github.com/midsu/gitGuide/edit/main/README.md
 [GitHub_readMe](https://github.com/midsu/gitGuide/edit/main/README.md)
 
 ________________________ TABLE
