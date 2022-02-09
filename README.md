@@ -36,6 +36,8 @@ GitHub_readMe will directs to this link: https://github.com/midsu/gitGuide/edit/
 
 ________________________ TABLE
 
+left-center-right table
+
 |Column 1|Column 2|Column 3|
 |:---|:---:|---:|
 |row 1a|row 1b|row 1c|
