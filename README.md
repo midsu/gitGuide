@@ -33,7 +33,7 @@ ________________________ LINK
 
 ________________________ TABLE
 
-| Column 1 | Column 2 | Column 3 |
+|Column 1|Column 2|Column 3|
 |:---|:---:|
 |row 1a|row 1b|
 
