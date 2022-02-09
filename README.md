@@ -30,7 +30,7 @@ ________________________ TASK
 
 ________________________ LINK
 
-Directs to this link: https://github.com/midsu/gitGuide/edit/main/README.md.
+GitHub_readMe will directs to this link: https://github.com/midsu/gitGuide/edit/main/README.md.
 
 [GitHub_readMe](https://github.com/midsu/gitGuide/edit/main/README.md)
 
